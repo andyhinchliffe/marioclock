@@ -35,4 +35,4 @@ console.log(h)
 time.innerHTML = html;
 };
 
-setInterval(tick, 1000);
+setInterval(tick, 900);
