@@ -1,0 +1,18 @@
+.clock{
+    font-family: 'New Super Mario Font U', sans-serif;
+    font-size: 20vw;
+    color:white;
+    text-align: center;
+    padding-top: 3%;
+    text-shadow: 4px 4px #ff0000;
+    
+                                                   
+}
+
+body{
+
+    background-image: url("mariosmall.jpg");
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    background-position: center;
+}
